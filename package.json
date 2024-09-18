@@ -13,7 +13,7 @@
     "@builder.io/react": "^3.2.7",
     "@builder.io/sdk": "^2.2.3",
     "cloudflare": "^3.2.0",
-    "next": "14.2.4",
+    "next": "14.2.10",
     "react": "^18",
     "react-dom": "^18"
   },
